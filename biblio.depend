@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1701404547 source:c:\users\eduar\onedrive\documentos\biblio\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<conio.h>
+

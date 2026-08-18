@@ -1,0 +1,2 @@
+Contraseña de admin: pass
+Intriducir fechas empezando con dia, mes y año, usando espacios (25 12 2023 )
